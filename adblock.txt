@@ -1,6 +1,0 @@
-# 广告+追踪器域名黑名单 - ClashHub - 2026-05-20
-doubleclick.net
-googlesyndication.com
-google-analytics.com
-googletagmanager.com
-facebook.net
